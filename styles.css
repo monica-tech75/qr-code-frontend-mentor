@@ -3,7 +3,7 @@
 }
 
 body {
-  margin-top: 5rem;
+  margin-top: 3rem;
   font-family: "Outfit", sans-serif;
   background-color: hsl(212, 45%, 89%);
   width: 100%;
@@ -19,7 +19,6 @@ body {
 .main-card {
   text-align: center;
   width: 90%;
-  height: 100%;
   max-width: 330px;
   padding: 15px;
   background-color: hsl(0, 0%, 100%);
@@ -45,7 +44,7 @@ body {
 
 .attribution {
   text-align: center;
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 .attribution a {
   color: hsl(218, 44%, 22%);
